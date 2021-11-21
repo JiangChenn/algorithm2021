@@ -1,4 +1,4 @@
-class Solution {
+public class lc_66 {
     public int[] plusOne(int[] digits) {
         int i =digits.length-1;
         for(;i>=0;i--){
